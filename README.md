@@ -143,9 +143,15 @@
     <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=109472773&period=all_times&theme=dark" width="85%" />
   </a>
   
+</div>
+
+### Streak-stats
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta-opal.vercel.app?user=vishaldhavali" alt="GitHub Streak" /></a>
+  
 
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 
 ## 🌟 Let's Connect
