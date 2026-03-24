@@ -6,7 +6,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishal+Dhavali!;" />
 </h1>
-<h3 align="center">Passionate Frontend Developer & AI Enthusiast from India 🇮🇳</h3>
+<h3 align="center">Aspiring Java Backend Developer • Generative AI Learner • LLM Enthusiast from India 🇮🇳</h3>
 <br/>
 
 ## 🚀 About Me
@@ -14,12 +14,15 @@
   <tr>
     <td valign="top" width="50%">
    
-- 🎯 **Currently Working On**: [AI-Vakeel: AI Legal Assistant](https://github.com/vishaldhavali/AI-Vakeel-AI-Legal-Assistant.git)  
-- 🌱 **Learning**: React.js, Node.js, Advanced DSA, LLM Development & AI Integration  
-- 🤝 **Looking to Collaborate On**: Legal Tech Solutions, Generative AI Applications  
-- 💬 **Ask Me About**: Web Dev (HTML/CSS/JS), Python & Flask AI, LLMs  
+- 🎯 **Currently Learning**: **Java Backend Development** — Spring Boot, Spring MVC, Hibernate/JPA & building REST APIs  
+- 🤖 **Exploring**: **Generative AI** & **LLM Development** — learning how to integrate LLMs, build AI pipelines, RAG systems & intelligent assistants  
+- 🌱 **Currently Studying**: Java, Spring Boot, Spring MVC, Hibernate/JPA, REST APIs, Advanced DSA, LLM Development, Prompt Engineering & AI Integration  
+- 🏗️ **Goal**: Become a **Java Backend Developer** who can build AI-powered, production-ready systems — combining solid backend engineering with Generative AI  
+- 🧠 **Interested In**: LLM Integration, Generative AI App Development, RAG Pipelines, AI Agents & building real-world AI solutions  
+- 🤝 **Looking to Collaborate On**: Java Backend Projects, LLM-powered Applications, Legal Tech AI Solutions  
+- 💬 **Ask Me About**: Web Dev (HTML/CSS/JS), Python & Flask AI, or just anything about my learning journey!  
 - 📩 **How to Reach Me**: vishaldhavali2209@gmail.com  
-- ⚡ **Fun Fact**: Building AI solutions for the legal domain  
+- ⚡ **Fun Fact**: Already built an **AI Legal Assistant** and now on a mission to master Java Backend + GenAI — one step at a time! 🚀  
     </td>
     <td valign="top" width="50%">
       <div align="center">
@@ -32,12 +35,21 @@
 ---
 ## 🛠️ Skills and Tools
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <!-- Web Development -->
-  <a href="https://reactjs.org/" target="_blank" class="tech-icon">
-    <img style="margin: 40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="25" />
+
+  <!-- Backend -->
+  <a href="https://www.java.com" target="_blank" class="tech-icon">
+    <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="25" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" class="tech-icon">
+    <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" height="25" />
   </a>
   <a href="https://nodejs.org" target="_blank" class="tech-icon">
     <img style="margin: 40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="25" />
+  </a>
+
+  <!-- Web Development -->
+  <a href="https://reactjs.org/" target="_blank" class="tech-icon">
+    <img style="margin: 40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="25" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" class="tech-icon">
     <img style="margin: 40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="25" />
