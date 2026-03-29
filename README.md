@@ -96,7 +96,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishaldhavali&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vishaldhavali&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 ---
 
