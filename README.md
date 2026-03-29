@@ -94,9 +94,10 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishaldhavali&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaldhavali&show_icons=true&theme=onedark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldhavali&layout=compact&theme=onedark&hide_border=true" height="165"/>
 </div>
 ---
 
