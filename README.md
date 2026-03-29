@@ -95,12 +95,9 @@
 <br/>
 
 ## 🏆 GitHub Trophies
-<div align="center" style="animation: zoomIn 1s;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishaldhavali&theme=onedark&row=2&column=4" alt="Trophies" style="width: 100%; max-width: 800px;"/>
-  </a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishaldhavali&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies"/>
 </div>
-
 ---
 
 
