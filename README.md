@@ -96,7 +96,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=vishaldhavali&theme=onedark&no-frame=true&no-bg=true&row=2&column=4"/>
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=vishaldhavali&theme=onedark&no-frame=true&no-bg=true&row=2&column=4"/>
 </div>
 
 
